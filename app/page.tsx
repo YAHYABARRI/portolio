@@ -347,7 +347,7 @@ export default function Home() {
           <p className="section-kicker reveal"><span>05</span> Connect</p>
           <div className="social-list reveal">
             <a href="https://github.com/YAHYABARRI" target="_blank" rel="noreferrer"><span>01</span><div><small>CODE &amp; REPOSITORIES</small><b>GitHub</b></div><i>↗︎</i></a>
-            <span className="social-disabled" aria-disabled="true"><span>02</span><div><small>PROFILE URL NEEDED</small><b>LinkedIn</b></div><i>—</i></span>
+            <a href="https://www.linkedin.com/in/yahya-barri-00u90e36" target="_blank" rel="noreferrer"><span>02</span><div><small>PROFESSIONAL NETWORK</small><b>LinkedIn</b></div><i>↗︎</i></a>
             <a href="mailto:yahyabarri25@gmail.com"><span>03</span><div><small>DIRECT CONTACT</small><b>Email</b></div><i>↗︎</i></a>
           </div>
         </section>
